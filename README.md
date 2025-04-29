@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # HomeFit: The Home Workout Generator
 
 ## Contributors
@@ -30,3 +31,6 @@ Exercise descriptions derived from Men's Fitness, YouTube, BodyBuilding.com, Cro
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details
+=======
+# hackathon-projectmk
+>>>>>>> 99c024314e9db8e176f58604489a82eab33c257d
